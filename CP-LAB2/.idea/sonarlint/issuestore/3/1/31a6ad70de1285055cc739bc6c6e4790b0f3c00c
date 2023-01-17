@@ -1,0 +1,13 @@
+
+{
+java:S1104"YMake waitingRiders a static final constant or non-public and provide accessors if needed.(ÆÑÔôúÿÿÿÿ8¿×ğüÛ0
+u
+java:S1104"SMake busWait a static final constant or non-public and provide accessors if needed.(¡Ô¾ùÿÿÿÿ8êãËûÛ0
+i
+java:S1104"SMake boarded a static final constant or non-public and provide accessors if needed.(àŒÙæ
+g
+java:S1104"QMake mutex a static final constant or non-public and provide accessors if needed.(í¦¯é
+q
+java:S1104	"OMake bus a static final constant or non-public and provide accessors if needed.(·µ§üûÿÿÿÿ8§»İûÛ0
+0
+java:S1220""Move this file to a named package.

@@ -1,0 +1,17 @@
+
+o	java:S116"SRename this field "mean_bus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¬ûÃ8§§ŠıÛ0
+y	java:S116"XRename this field "wait_time_bus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µøÒÒşÿÿÿÿ8‡Ì¢üÛ0
+p
+java:S3008	"SRename this field "rand_bus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç­ü®8‡Ì¢üÛ0
+B
+java:S3010"%Remove this assignment of "rand_bus".(¢ÙÉı8–Ì¢üÛ0
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâŞáøÿÿÿÿ8–Ì¢üÛ0
+q
+java:S1104	"TMake rand_bus a static final constant or non-public and provide accessors if needed.(ç­ü®8–Ì¢üÛ0
+K
+java:S1444	".Make this "public static rand_bus" field final(ç­ü®8–Ì¢üÛ0
+0
+java:S1220""Move this file to a named package.
+7
+java:S2189""Add an end condition to this loop.(¤èÄ7
